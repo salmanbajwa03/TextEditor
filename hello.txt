@@ -1,0 +1,35 @@
+34
+                     HELLO !!! THIS IS ULTIMATE TEXT EDITOR CREATED 
+                                          B Y
+                                 FAHAD BIN SHAHID   
+                                
+                                 S E C T I O N  :  X    
+                
+               LOAD FROM FILE : A
+               START NEW TASK : B
+               CHANGE SPECIFIC LINE INTO UPPER CASE (LOAD FILE): C
+               CHANGE SPECIFIC LINE INTO LOWER CASE (LOAD FILE): D
+               FINDING A WORD IN SENSITIVE CASE : E
+               FINDIGN A WORD IN INSENSITIVE CASE : F
+               FINDING A SENTENCE USING ANOTHER FILE :G
+               FINDING A SUBSTRING : H
+               REPLACE THE FIRST WORD : I
+               REPLACE THE WHOLE FILE'S WORD : J
+               ADDPREFIX :K
+               ADDPOSTFIX:L
+               AvgWordLenth:M
+               SUBSTRING COUNT : N
+               SPECIAL CHARACTER COUNT : O
+               COUNT NUMBER OF SENTENCE : P
+               LARGEST WORD LENGTH : Q
+               MERGING TWO FILES INTO ONE : R
+               SMALLEST WORD IN FILE : S
+               WORD HAVING MAX NUMBER WORDS: T
+               COUNT NUMBER OF PARAGRAPH : U
+               LARGEST PARAGRAPH WORD COUNT : V
+               FILE SAVING SIMPLE : F1
+               FILE OPEN ENCRYPTED FILE : W
+               SAVE FILE IN ENCRYPTED FORM: F2                        
+ 
+                P R E S S   K E Y   T O   C O N T I N U E  :
+
